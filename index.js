@@ -22,6 +22,8 @@ import SocialOutdoorGrill from './social/OutdoorGrill.svelte'
 import HardwareKeyboardArrowDown from './hardware/KeyboardArrowDown.svelte'
 import HardwareKeyboardArrowUp from './hardware/KeyboardArrowUp.svelte'
 import ImageEdit from './image/Edit.svelte'
+import ToggleCheckBox from './toggle/CheckBox.svelte'
+import ToggleCheckBoxOutlineBlank from './toggle/CheckBoxOutlineBlanck.svelte'
 
 export {
   ActionDone,
@@ -47,5 +49,7 @@ export {
   SocialOutdoorGrill,
   HardwareKeyboardArrowDown,
   HardwareKeyboardArrowUp,
-  ImageEdit
+  ImageEdit,
+  ToggleCheckBox,
+  ToggleCheckBoxOutlineBlank
 }
