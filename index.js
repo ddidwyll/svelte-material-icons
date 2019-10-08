@@ -13,6 +13,7 @@ import ContentAdd from './content/Add.svelte'
 import ContentClear from './content/Clear.svelte'
 import ContentBlock from './content/Block.svelte'
 import ContentRemove from './content/Remove.svelte'
+import ContentAddCircleOutline from './content/AddCircleOutline.svelte'
 import ContentRemoveCircleOutline from './content/RemoveCircleOutline.svelte'
 import NotificationEventAvailable from './notification/EventAvailable.svelte'
 import NotificationEventBusy from './notification/EventBusy.svelte'
@@ -50,6 +51,7 @@ export {
   ContentClear,
   ContentRemove,
   ContentRemoveCircleOutline,
+  ContentAddCircleOutline,
   NotificationEventAvailable,
   NotificationEventBusy,
   MapsLocalAtm,
